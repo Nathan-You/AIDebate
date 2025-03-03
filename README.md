@@ -91,7 +91,7 @@
 ## 辩论赛内容分析、点评观点与研究
 #### 第1场辩论赛中事实性依据分析
 - 辩论赛题：[[智能投顾是否会取代人类理财顾问 正方（Deepseek-R1） VS 反方 （OpenAI o3-mini-high）](results/智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
-- [[正反方事实性依据与模型幻觉分析](research/事实性依据分析智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
+- 事实性依据分析：[[正反方事实性依据与模型幻觉分析](research/事实性依据分析智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
 
 ## License
 AIDebate是一项仅用于非商业使用的研究预览，受OpenAI和DeepSeek生成数据的使用条款约束。如果您发现任何潜在的风险行为，请与我们联系。该代码发布在Apache License 2.0下。
