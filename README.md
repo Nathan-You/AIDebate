@@ -45,7 +45,7 @@
 
 ### 视频展示
 
-[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/f49831ee-5b3d-476f-9200-500a34e82a06)](https://weixin.qq.com/sph/AnDrR6wHk)
+[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/f49831ee-5b3d-476f-9200-500a34e82a06)]([https://weixin.qq.com/sph/AnDrR6wHk](https://drive.google.com/file/d/1lZqdczmVSwTGnNOdJFCbjapf8Y1tdHpA/view?usp=sharing))
 
 ### 辩手介绍
 
