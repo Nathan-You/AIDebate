@@ -45,11 +45,7 @@
 
 ### 视频展示
 
-<div align="center">
-  <video src="videos/example.mp4" controls="controls" width="500" height="300"></video> 
-  <br />
-  <br />
-</div>
+[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/f49831ee-5b3d-476f-9200-500a34e82a06)](https://weixin.qq.com/sph/AnDrR6wHk)
 
 ### 辩手介绍
 
