@@ -43,11 +43,15 @@
 #### 智能投顾是否会取代人类理财顾问？
 - 正方（Deepseek-R1） VS  反方 OpenAI o3-mini-high  [[阅读文字版](results/智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)][[观看视频](https://mp.weixin.qq.com/s/YMGd2TUK2UhONu6PBxQK6g)]
 
+
+
 ### 视频展示
 
 <a href="https://drive.google.com/file/d/1lZqdczmVSwTGnNOdJFCbjapf8Y1tdHpA/view?usp=sharing">
    <img src="https://github.com/user-attachments/assets/f49831ee-5b3d-476f-9200-500a34e82a06" alt="点击观看视频" width="800"/>
  </a>
+
+
 
 ### 辩手介绍
 
